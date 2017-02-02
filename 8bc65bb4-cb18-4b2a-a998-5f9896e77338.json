@@ -1,0 +1,74 @@
+{
+  "name": "Custom_Legend_Widget",
+  "description": "",
+  "author": "",
+  "library": "ap_widgets",
+  "meta": {
+    "type": "other"
+  },
+  "properties": {
+    "sections": [
+      {
+        "type": "header",
+        "order": 0,
+        "parent": "qw-pe-dropzone1-0",
+        "ref": "header1",
+        "label": "Settings"
+      }
+    ],
+    "measures": {
+      "min": null,
+      "max": null
+    },
+    "dimensions": {
+      "max": 1,
+      "min": 1
+    },
+    "settings": [
+      {
+        "component": "textarea",
+        "defaultValue": "",
+        "rows": 3,
+        "maxlength": 512,
+        "order": 0,
+        "parent": "header1",
+        "ref": "color1",
+        "label": "Color1",
+        "type": "string"
+      },
+      {
+        "component": "textarea",
+        "defaultValue": "",
+        "rows": 3,
+        "maxlength": 512,
+        "order": 1,
+        "parent": "header1",
+        "ref": "color2",
+        "label": "Color2",
+        "type": "string"
+      },
+      {
+        "component": "textarea",
+        "defaultValue": "",
+        "rows": 3,
+        "maxlength": 512,
+        "order": 2,
+        "parent": "header1",
+        "ref": "color3",
+        "label": "Color3",
+        "type": "string"
+      },
+      {
+        "component": "textarea",
+        "defaultValue": "",
+        "rows": 3,
+        "maxlength": 512,
+        "order": 3,
+        "parent": "header1",
+        "ref": "color4",
+        "label": "Color4",
+        "type": "string"
+      }
+    ]
+  }
+}

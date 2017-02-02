@@ -1,0 +1,8 @@
+{
+  "name": "AP_CUSTOM_WIDGETS",
+  "type": "widget-library",
+  "widgets": [
+    "dfd00bb2-6387-4f68-862d-590e21f57f83",
+    "8bc65bb4-cb18-4b2a-a998-5f9896e77338"
+  ]
+}
