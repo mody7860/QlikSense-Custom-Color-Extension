@@ -1,16 +1,18 @@
 # QlikSense-Custom-Color-Extension
 Allows adding a legend to charts when using custom colors
 
-INSTALLATION - 
+<h3>INSTALLATION -</h3> 
 Download the ap_widgets.zip to your server and import into QlikSense using the Extensions module in QMC.
 
 After Import, the extension will be available for use.  Extension name - ap_widgets
 
+<h3>LIMITATIONS - </h3>
+Only allows upto 4 custom colors for now.
 
-EDIT EXTENSION - 
+<h3>EDIT EXTENSION - </h3>
 To edit or customize the extension, use the dev hub site.
 
-USAGE - 
+<h3>USAGE - </h3>
 This extension allows users to add a legend to their chart when using custom colors.  When using custom colors the legend is not available. 
 Note - this legend control uses a valuelist as a dimension.
 
