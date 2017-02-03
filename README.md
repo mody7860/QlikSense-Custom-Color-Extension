@@ -28,3 +28,6 @@ Note - this legend control uses a valuelist as a dimension.
 . Under settings, you will see upto 4 colors which can be configured for your legend.  The colors you specify here will be directly linked to the dimensions you specified in your valuelist
 
 ![Preview](https://github.com/mody7860/QlikSense-Custom-Color-Extension/blob/master/Settings.PNG)
+
+<h3>OUTPUT EXAMPLE - </h3>
+![image](https://github.com/mody7860/QlikSense-Custom-Color-Extension/blob/master/Example.PNG)  
