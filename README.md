@@ -14,11 +14,15 @@ USAGE -
 This extension allows users to add a legend to their chart when using custom colors.  When using custom colors the legend is not available. 
 Note - this legend control uses a valuelist as a dimension.
 
-1) To add the legend to a chart with custom colors, open the app in hub edit the chart and click on on Custom Objects from the menu on the left
+. To add the legend to a chart with custom colors, open the app in hub edit the chart and click on on Custom Objects from the menu on the left.
+. After the legend has been added, click on the control in the UI and open the properties
+. Under dimensions section in properties, click add dimension and specify the valueList dimension.  
+⋅⋅*Example - ValueList('Red','Light Yellow','Light Green', 'Dark Green'). 
 
-2) After the legend has been added, click on the control in the UI and open the properties.
-3) Under dimensions section in properties, click add dimension and specify the valueList dimension.  
-   Example - ValueList('Red','Light Yellow','Light Green', 'Dark Green')
-4) Under Appearance selection under the control's properties, expand the settings section.  
-5) Under settings, you will see upto 4 colors which can be configured for your legend.  The colors you specify here will be directly linked to the dimensions you specified in your valuelist.
+![image](https://github.com/mody7860/QlikSense-Custom-Color-Extension/blob/master/Settings.PNG)  
+
+. Under Appearance selection under the control's properties, expand the settings section.
+
+. Under settings, you will see upto 4 colors which can be configured for your legend.  The colors you specify here will be directly linked to the dimensions you specified in your valuelist
+
 ![Preview](https://github.com/mody7860/QlikSense-Custom-Color-Extension/blob/master/Settings.PNG)
