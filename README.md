@@ -20,4 +20,4 @@ Note - this legend control uses a valuelist as a dimension.
    Example - ValueList('Red','Light Yellow','Light Green', 'Dark Green')
 4) Under Appearance selection under the control's properties, expand the settings section.  
 5) Under settings, you will see upto 4 colors which can be configured for your legend.  The colors you specify here will be directly linked to the dimensions you specified in your valuelist.
-   
+   ![Screenshot](settings.png)
